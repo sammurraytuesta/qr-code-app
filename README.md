@@ -16,7 +16,7 @@ A simple QR Code application simulated on an iPhone 14 Pro Max developed as part
 </details>
 
 ## Application
-Developed a simple QR Code Application using React Native and Expo. Below is the simulated QR Code application on a iPhone 14 Pro Max:
+Developed a simple QR Code Application using React Native and Expo. Below is the simulated QR Code application on an iPhone 14 Pro Max:
 
 <img width="375px" src="./design/simulated-app.png"/>
 
